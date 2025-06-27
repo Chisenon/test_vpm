@@ -1,7 +1,7 @@
 {
     "name" : "net.chisenon.testvpm",
     "displayName" : "Chisenon VPM Test",
-    "version" : "1.0.4",
+    "version" : "1.0.5",
     "author": {
       "name": "Chisenon",
       "url":"https://github.com/chisenon"
